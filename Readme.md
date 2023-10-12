@@ -187,17 +187,3 @@ MySQL数据库端口号：3366，用户/密码：root/root
 SpringBoot原理及运行示例：https://mp.weixin.qq.com/s/D4jtqFmWsyZvY1LNtUM9vQ
 
 MySQL数据库安装配置教程：https://mp.weixin.qq.com/s/QSio4tgqwDknglyJmUeFag
-
-
-
-### About me
-
-    一个爱学习、爱分享、爱交流的程序员；
-    
-    欢迎关注个人微信公众号【Java烂笔头】，一起交流、共同进步；
-
-![扫码_搜索联合传播样式-微信标准绿版_副本](./img/扫码_搜索联合传播样式-微信标准绿版_副本-16395768741171.jpg)
-
-
-
-***项目如果对你有帮助，麻烦给项目*  star  *鼓励一下。***
